@@ -1,9 +1,3 @@
-// CS 111 - Project 1
-// Spring 2018
-
-// Brayan Gallardo
-// Justin Choi - 40532889
-
 #include <stdio.h>
 #include <math.h>
 
